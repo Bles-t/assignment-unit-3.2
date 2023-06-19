@@ -68,9 +68,9 @@ while (num < 5) {
 console.log('count backwards from 10 to 5');
 
 
-let numbers = 11
+let number = 11
 
-while (numbers > 5) {
-  numbers--
-  console.log(numbers);
+while (number > 5) {
+  number--
+  console.log(number);
 }
